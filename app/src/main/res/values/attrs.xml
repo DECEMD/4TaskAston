@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundWallClock">
+        <attr name="clockColor" format="color" />
+        <attr name="circleColor" format="color" />
+        <attr name="hourColor" format="color" />
+        <attr name="minuteColor" format="color" />
+        <attr name="secondColor" format="color" />
+        <attr name="circleThickness" format="dimension" />
+        <attr name="hourThickness" format="dimension" />
+        <attr name="minuteThickness" format="dimension" />
+        <attr name="secondThickness" format="dimension" />
+    </declare-styleable>
+</resources>
